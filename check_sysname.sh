@@ -14,7 +14,6 @@ VERSION="0.1"
 export HOST="";
 export SNMP_VERSION="2c";
 export SNMP_COMMUNITY="public";
-export BS_NUMBER="";
 export TYPE="STATUS";
 export MESSAGE=""
 
